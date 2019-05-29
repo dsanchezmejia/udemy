@@ -1,3 +1,11 @@
-h1 {
-  color: red;
+/* Header */
+.site-header.inicio {
+    background: url(../img/header.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 600px;
+
+
+
 }
